@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Data Engineer & AI Automation Specialist with an MS in Data Science from the University at Buffalo. I design end-to-end ETL pipelines, orchestrate workflows using Apache Airflow and n8n, and build LLM-based agents that extract, validate, and standardize high-volume data from diverse sources. With 2+ years of experience across telecom and utilities, I bridge the gap between analytics and production — focusing on clean data models, reliable pipelines, and maintainable code. Currently consulting at Troy & Banks, modernizing utility billing analytics with scalable data infrastructure and AI-driven automation. Open to full-time roles in Data Engineering, Analytics Engineering, or AI/ML Engineering.
+I'm a Data Engineer & AI Automation Specialist with an MS in Data Science from the University at Buffalo. I build end-to-end ETL/ELT pipelines, design scalable data models, and work across AWS, Snowflake, BigQuery, Spark, Airflow, and modern lakehouse tools like Delta Lake and Apache Iceberg. I also develop LLM-powered applications and multi-agent systems using OpenAI, LangChain, LangSmith, Hugging Face, and FastAPI for production-oriented AI workflows.
 
 
 ## 🌐 Socials:
