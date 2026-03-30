@@ -109,7 +109,7 @@ I'm a **Data Engineer & AI Automation Specialist** with an MS in Data Science fr
 ## 🗺️ Experience Timeline
 
 ```text
-2024 – Present  │  🎓  MS in Data Science — University at Buffalo
+2024 – 2025     │  🎓  MS in Data Science — University at Buffalo
                 │       Focus: ML, Big Data Systems, NLP, Cloud Architecture
                 │
 2023 – 2024     │  🔧  Data Engineering & AI Automation Projects
