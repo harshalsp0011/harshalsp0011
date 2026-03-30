@@ -1,9 +1,44 @@
-# 💫 About Me:
-I'm a Data Engineer & AI Automation Specialist with an MS in Data Science from the University at Buffalo. I build end-to-end ETL/ELT pipelines, design scalable data models, and work across AWS, Snowflake, BigQuery, Spark, Airflow, and modern lakehouse tools like Delta Lake and Apache Iceberg. I also develop LLM-powered applications and multi-agent systems using OpenAI, LangChain, LangSmith, Hugging Face, and FastAPI for production-oriented AI workflows.
+<div align="center">
 
+<!-- Animated Header with Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshal+Patil;Data+Engineer+%7C+AI+Automation+Specialist" alt="Typing SVG" />
+</a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshalsp0011) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harshal.sanjivpatil2000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshal.sanjivpatil2000@gmail.com) 
+<br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=harshalsp0011&label=Profile%20Views&color=2E86C1&style=flat-square" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-28B463?style=flat-square&logo=statuspage&logoColor=white" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MS-Data%20Science%20%40%20UB-003087?style=flat-square&logo=university&logoColor=white" alt="Education" />
+</p>
+
+</div>
+
+---
+
+## 💫 About Me
+
+> *Building intelligent data systems that scale — from raw bytes to actionable insight.*
+
+I'm a **Data Engineer & AI Automation Specialist** with an MS in Data Science from the **University at Buffalo**. I specialize in:
+
+- 🔁 **End-to-end ETL/ELT pipelines** — from ingestion through transformation to serving
+- 🏗️ **Scalable data architectures** — Lakehouse patterns with Delta Lake & Apache Iceberg
+- 🤖 **LLM-powered applications** — multi-agent systems with LangChain, OpenAI, and FastAPI
+- ☁️ **Cloud-native engineering** — AWS, GCP, Snowflake, BigQuery at production scale
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshalsp0011)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harshal.sanjivpatil2000)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshal.sanjivpatil2000@gmail.com)
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -69,28 +104,104 @@ I'm a Data Engineer & AI Automation Specialist with an MS in Data Science from t
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 🔧 Dev Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
+
+## 🗺️ Experience Timeline
+
+```text
+2024 – Present  │  🎓  MS in Data Science — University at Buffalo
+                │       Focus: ML, Big Data Systems, NLP, Cloud Architecture
+                │
+2023 – 2024     │  🔧  Data Engineering & AI Automation Projects
+                │       ETL pipelines · Lakehouse architectures · LLM apps
+                │
+2022 – 2023     │  📊  Data Analytics & Pipeline Development
+                │       Spark · Airflow · Kafka · dbt · AWS
+                │
+2020 – 2022     │  💻  Software & Data Engineering Foundations
+                │       Python · SQL · Cloud fundamentals · ML basics
+```
+
+> 📌 *Open to full-time Data Engineering / ML Engineering roles — available immediately.*
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshalsp0011&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harshalsp0011&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalsp0011&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshalsp0011&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=2E86C1&icon_color=2E86C1" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalsp0011&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=2E86C1" height="170"/>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=harshalsp0011&theme=default&hide_border=true&ring=2E86C1&fire=E74C3C&currStreakLabel=2E86C1" />
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshalsp0011&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harshalsp0011&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-profile-trophy.vercel.app/?username=harshalsp0011&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7)
 
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harshalsp0011&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Harshal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshalsp0011&bg_color=ffffff&color=2E86C1&line=2E86C1&point=E74C3C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repos
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=harshalsp0011&limit=5&theme=flat&combine_all_yearly_contributions=true&hide_border=true)
+
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+```python
+harshal = {
+    "pronouns"       : "he/him",
+    "currently"      : "Building LLM-powered data pipelines & multi-agent systems",
+    "learning"       : ["Apache Iceberg", "LLM fine-tuning", "Rust for data tools"],
+    "hobbies"        : ["Exploring new data tools 🔍", "Technical blogging on Medium ✍️",
+                        "Coffee-fuelled late-night debugging ☕", "F1 🏎️"],
+    "fun_fact"       : "I automate tasks so I have more time to automate more tasks 🤖",
+    "reach_me_at"    : "harshal.sanjivpatil2000@gmail.com",
+}
+```
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
+
+</div>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=harshalsp0011&icon=5&color=9)](https://visitcount.itsvg.in)
+
+*Last updated: 2025 · Built with ❤️ and way too much data*
+
+</div>
