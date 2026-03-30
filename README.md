@@ -8,7 +8,7 @@
 <br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=harshalsp0011&label=Profile%20Views&color=2E86C1&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=harshalsp0011&label=Profile+Views&color=2E86C1&style=flat-square" alt="Profile Views" />
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-28B463?style=flat-square&logo=statuspage&logoColor=white" alt="Status" />
   &nbsp;
@@ -130,13 +130,13 @@ I'm a **Data Engineer & AI Automation Specialist** with an MS in Data Science fr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshalsp0011&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=2E86C1&icon_color=2E86C1" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshalsp0011&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2E86C1&icon_color=2E86C1&text_color=444444&bg_color=ffffff&cache_seconds=1800" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalsp0011&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=2E86C1" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalsp0011&layout=compact&hide_border=true&title_color=2E86C1&text_color=444444&bg_color=ffffff&cache_seconds=1800" height="170"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=harshalsp0011&theme=default&hide_border=true&ring=2E86C1&fire=E74C3C&currStreakLabel=2E86C1" />
+<img src="https://streak-stats.demolab.com?user=harshalsp0011&hide_border=true&ring=2E86C1&fire=E74C3C&currStreakLabel=2E86C1&sideLabels=2E86C1&dates=888888" />
 
 </div>
 
@@ -147,16 +147,6 @@ I'm a **Data Engineer & AI Automation Specialist** with an MS in Data Science fr
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=harshalsp0011&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Harshal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshalsp0011&bg_color=ffffff&color=2E86C1&line=2E86C1&point=E74C3C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -202,6 +192,6 @@ harshal = {
 
 [![](https://visitcount.itsvg.in/api?id=harshalsp0011&icon=5&color=9)](https://visitcount.itsvg.in)
 
-*Last updated: 2025 · Built with ❤️ and way too much data*
+*Last updated: 2026 · Built with ❤️ and way too much data*
 
 </div>
